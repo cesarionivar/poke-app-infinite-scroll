@@ -1,0 +1,15 @@
+.poke-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  p {
+    display: inline-block;
+    background-color: cadetblue;
+    padding: 10px;
+    margin: 5px 15px;
+    text-transform: uppercase;
+    text-align: center;
+    color: lightyellow;
+    min-width: 200px;
+  }
+
+}
