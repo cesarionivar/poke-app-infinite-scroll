@@ -1,6 +1,6 @@
 # Poke App
 
-This is an app using the API of PokeAPI
+This is an app using the API of PokeAPI to create an app with infinite scroll
 
 ```
 https://pokeapi.co/
